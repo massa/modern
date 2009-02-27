@@ -1,0 +1,14 @@
+Revision history for massa
+
+1.02   Thu Jan 30 09:45:39 2009
+       Add ~/.usr/lib
+
+1.02   Thu Jan 30 09:45:39 2009
+       Back to 5.10
+
+1.01   Thu Jan 29 09:45:39 2009
+       Adapted for 5.8 for the time being
+
+0.0.1  Thu Jan 29 09:35:39 2009
+       Initial release
+

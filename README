@@ -1,0 +1,32 @@
+massa version 1.03
+
+  This module is a shortcut for a series of common "use" clauses in my scripts.
+
+INSTALLATION
+
+To install this module, run the following commands:
+
+	perl Makefile.PL
+	make
+	make test
+	make install
+
+Alternatively, to install with Module::Build, you can use the following commands:
+
+	perl Build.PL
+	./Build
+	./Build test
+	./Build install
+
+
+DEPENDENCIES
+
+None.
+
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2009, Humberto Massa
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself.
